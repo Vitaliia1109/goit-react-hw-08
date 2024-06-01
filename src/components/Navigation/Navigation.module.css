@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  gap: 35px;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+.link:hover,
+.link:focus {
+  color: midnightblue;
+}

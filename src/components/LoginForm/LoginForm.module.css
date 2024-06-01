@@ -1,0 +1,37 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  gap: 25px;
+  color: teal;
+}
+
+.inputE {
+  border: 2px solid teal;
+  border-radius: 6px;
+  margin-left: 57px;
+  height: 30px;
+}
+
+.inputP {
+  border: 2px solid teal;
+  border-radius: 6px;
+  margin-left: 23px;
+  height: 30px;
+}
+
+.btn {
+  color: white;
+  background-color: teal;
+  border: teal;
+  border-radius: 6px;
+  width: 150px;
+  height: 45px;
+  margin-left: 100px;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: midnightblue;
+  border: midnightblue;
+}

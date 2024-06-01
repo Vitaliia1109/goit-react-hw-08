@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  gap: 35px;
+  align-items: center;
+}
+
+.username {
+  color: white;
+}
+
+.btn {
+  background-color: lightcyan;
+  color: teal;
+  border: lightcyan;
+  border-radius: 6px;
+  width: 150px;
+  height: 45px;
+}
+
+.btn:hover {
+  background-color: midnightblue;
+  border: midnightblue;
+}

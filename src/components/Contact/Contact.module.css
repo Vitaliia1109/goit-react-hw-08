@@ -1,0 +1,34 @@
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* font-family: "Roboto", sans-serif; */
+  font-size: 16px;
+  color: teal;
+  border: 2px solid teal;
+  border-radius: 6px;
+  padding: 15px;
+  width: 400px;
+  height: 150px;
+}
+
+.textWrapper {
+  display: block;
+  text-align: start;
+  margin-right: 30px;
+}
+
+.btn {
+  border: teal;
+  border-color: teal;
+  border-radius: 6px;
+  min-height: 45px;
+  min-width: 100px;
+  background-color: teal;
+  color: white;
+}
+
+.btn:hover {
+  background-color: midnightblue;
+  border: midnightblue;
+}

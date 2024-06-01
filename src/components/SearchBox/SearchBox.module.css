@@ -1,0 +1,20 @@
+searchBox {
+  display: block;
+  font-size: 16px;
+}
+
+.text {
+  margin-bottom: 5px;
+  color: teal;
+}
+
+.input {
+  width: 450px;
+  height: 30px;
+  margin-bottom: 25px;
+  border-radius: 4px;
+  padding-left: 10px;
+  color: teal;
+  border: 2px solid teal;
+  border-radius: 6px;
+}
